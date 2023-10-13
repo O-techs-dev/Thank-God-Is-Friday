@@ -23,11 +23,11 @@ section{
     position: absolute;
 }
 .content{
-    font-size: small;
+    font-size: large;
     color: white;
-    text-align: center;
-    padding: 100px;
-    font-family:'ilt+Neon', sans-serif;
+    text-align: left;
+    padding: 30px;
+    font-family:'Tilt+Neon', sans-serif;
 }
 p{
     line-height: normal;
