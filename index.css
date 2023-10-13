@@ -7,13 +7,12 @@
 body{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
-    min-height: 700px;
-  height:100vh;
+  height:130vh;
+  width: cover;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
      filter: brightness(100%);
-  overflow: hidden;
 }
 .section{
     top: 100%;
@@ -54,6 +53,10 @@ p{
 }
 .image{
     width: 20px;
+}
+.icon{
+  width: 20px;
+  position:relative;
 }
 footer{
     position: fixed;
