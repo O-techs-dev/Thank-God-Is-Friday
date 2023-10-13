@@ -7,7 +7,7 @@
 body{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
-     height: 100vh;
+     height: 80vh;
   width: 30vb;
   font-size: medium;
   background-size: cover;
@@ -56,9 +56,9 @@ p{
     width: 20px;
 }
 .icon{
-  width: 50px;
+  width: 30px;
   position:relative;
-  top: 40%;
+  top: 60%;
   text-align: left;
 }
 footer{
