@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
  body{
      font-size: small;
        
@@ -42,7 +37,7 @@ p{
 }
 .motto{
     font-size: 5%;
-    color: black;
+    color: red;
     font-family: 'Ballet', sans-serif;
     letter-spacing: 3px;
     font-weight: bold;
