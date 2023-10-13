@@ -1,14 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
  body{
-     font-size: small;
-   
-       
+     font-size: small;        
  }
 body{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
-     height: 95vh;
+     height: 105vh;
   width: 40vb;
   font-size: medium;
   background-size: cover;
