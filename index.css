@@ -45,9 +45,9 @@ p{
 }
 .motto{
     font-size: 5%;
-    color: rgb(119, 196, 196);
+    color: black;
     font-family: 'Ballet', sans-serif;
-    letter-spacing: 10px;
+    letter-spacing: 3px;
     font-weight: bold;
     text-align: right;
     line-height: 1;
