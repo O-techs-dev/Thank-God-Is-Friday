@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
  body{
-     font-size: xx-large;
+     font-size: large;
       overflow: hidden;
  }
 section{
@@ -23,7 +23,7 @@ section{
     position: absolute;
 }
 .content{
-    font-size: xx-large;
+    font-size: large;
     color: white;
     text-align: center;
     padding: 100px;
@@ -38,13 +38,13 @@ p{
     text-align: right;
     left: 0%;
     margin-right: 0%;
-    font-size: 200%;
+    font-size: 150%;
     letter-spacing: 5px;
     padding: 30px;
    margin-top: 12%;
 }
 .motto{
-    font-size: 30%;
+    font-size: 10%;
     color: rgb(119, 196, 196);
     font-family: 'Ballet', sans-serif;
     letter-spacing: 10px;
@@ -55,7 +55,7 @@ p{
 .TGIF{
     
   font-family:'Schoolbell', sans-serif;
-  font-size: x-large;
+  font-size: large;
 
 }
 .image{
@@ -63,7 +63,7 @@ p{
 }
  
 .icon{
-    width: 4%;
+    width: 2%;
     position: relative;
     left: 40%; 
     bottom: 0px;  
