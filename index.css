@@ -55,12 +55,12 @@ p{
 }
 footer{
     position: fixed;
-    bottom: 0;
+    bottom: 50px;
     left: 0;
     width: 100%;
-    font-size: 80%;
-    color: rgb(212, 14, 14);
-    padding: 20px;
+    font-size: 150%;
+    color: white;
+    padding: 40px;
     text-align: right;
 }
 
