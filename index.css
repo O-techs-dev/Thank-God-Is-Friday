@@ -41,9 +41,11 @@ p{
     margin-right: 0%;
     font-size: 150%;
     letter-spacing: 5px;
-    padding: 30px;
+    padding: 0px;
    margin-bottom: 20%;
-position:relative;
+  margin-top:0;
+  top: 0;
+
 
 }
 .motto{
@@ -64,20 +66,4 @@ position:relative;
 .image{
     width: 20px;
 }
-.media{
-  display: inline;
-  position: relative;
-}
- 
-.icon{
-    width: 2%;
-    position: relative;
-    left: 40%; 
-    bottom: 0px;  
-}
-.icon:hover {
-    
-    transform: scale(1.2);
-    transition: 0.5s ease-out;
-}
- 
+
