@@ -9,10 +9,10 @@
      font-size: small;
        
  }
-section{
+body{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
-    min-height: 660px;
+    min-height: 700px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
