@@ -6,8 +6,8 @@
     box-sizing: border-box;
 }
  body{
-     font-size: large;
-      overflow: hidden;
+     font-size: small;
+       
  }
 section{
     background-image: url(image/all\ the\ best.jpg);
@@ -23,7 +23,7 @@ section{
     position: absolute;
 }
 .content{
-    font-size: large;
+    font-size: small;
     color: white;
     text-align: center;
     padding: 100px;
@@ -44,7 +44,7 @@ p{
    margin-top: 12%;
 }
 .motto{
-    font-size: 10%;
+    font-size: 5%;
     color: rgb(119, 196, 196);
     font-family: 'Ballet', sans-serif;
     letter-spacing: 10px;
@@ -55,7 +55,7 @@ p{
 .TGIF{
     
   font-family:'Schoolbell', sans-serif;
-  font-size: large;
+  font-size: small;
 
 }
 .image{
