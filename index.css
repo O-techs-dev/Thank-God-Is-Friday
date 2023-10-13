@@ -13,6 +13,7 @@ section{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
     min-height: 700px;
+  height:100vh;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -41,7 +42,7 @@ p{
     font-size: 150%;
     letter-spacing: 5px;
     padding: 30px;
-   margin-top: 12%;
+   margin-top: 22%;
 }
 .motto{
     font-size: 5%;
