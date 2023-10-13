@@ -9,7 +9,7 @@
      font-size: small;
        
  }
-body{
+section{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
     min-height: 700px;
@@ -60,6 +60,10 @@ p{
 }
 .image{
     width: 20px;
+}
+.media{
+  display: inline;
+  position: relative;
 }
  
 .icon{
