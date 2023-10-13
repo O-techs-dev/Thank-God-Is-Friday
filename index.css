@@ -7,9 +7,11 @@
 body{
     background-image: url(image/all\ the\ best.jpg);
     position: relative;
-  height:105vh;
-    background-position: center;
-    background-size: cover;
+     height: 2vh;
+  width: 40vb;
+  font-size: medium;
+  background-size: cover;
+  background-position: center;
     background-repeat: no-repeat;
      filter: brightness(100%);
 }
@@ -57,6 +59,7 @@ p{
   width: 70px;
   position:relative;
   top: 40%;
+  text-align: left;
 }
 footer{
     position: fixed;
