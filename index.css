@@ -42,7 +42,9 @@ p{
     font-size: 150%;
     letter-spacing: 5px;
     padding: 30px;
-   margin-top: 22%;
+   margin-bottom: 20%;
+position:relative;
+
 }
 .motto{
     font-size: 5%;
