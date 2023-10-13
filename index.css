@@ -53,4 +53,14 @@ p{
 .image{
     width: 20px;
 }
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-size: 80%;
+    color: rgb(212, 14, 14);
+    padding: 20px;
+    text-align: right;
+}
 
