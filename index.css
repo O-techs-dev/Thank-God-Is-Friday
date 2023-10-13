@@ -13,6 +13,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
      filter: brightness(100%);
+  overflow: hidden;
 }
 .section{
     top: 100%;
@@ -32,6 +33,7 @@ p{
 .main{
     color: white;
     text-align: right;
+  letter-spacing: 4px;
 
 
 }
