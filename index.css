@@ -57,6 +57,7 @@ p{
 .icon{
   width: 70px;
   position:relative;
+  top: 80%;
 }
 footer{
     position: fixed;
