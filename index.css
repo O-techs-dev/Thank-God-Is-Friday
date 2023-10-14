@@ -5,7 +5,7 @@
  }
 body{
     background-image: url(image/all\ the\ best.jpg);
-  
+  overflow: hidden;
      height: 95vh;
   width: 40vb;
   font-size: medium;
@@ -30,12 +30,21 @@ p{
     letter-spacing: normal;
   color: white;
   font-size: small;
+  margin-top: 40px;
+  top: 100px;
+ 
+}
+.social{
+    color: white;
+    text-decoration: none;
+    margin-top: 80%;
+
 }
 .main{
     color: white;
     text-align: right;
   letter-spacing: 4px;
-
+ 
 
 }
 .motto{
@@ -46,6 +55,7 @@ p{
     font-weight: bold;
     text-align: right;
     line-height: 1;
+    margin-top: 2px;
 }
 .TGIF{
     
@@ -69,7 +79,6 @@ footer{
     width: 100%;
     font-size: 150%;
     color: white;
-    padding: 30px;
+    padding: 50px;
     text-align: right;
 }
-
